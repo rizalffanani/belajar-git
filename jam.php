@@ -25,6 +25,7 @@
 </script>
 </head>
 <body>
+<p>Hello Semua, Saya sedang belajar Git</p>
 <center>
 <h4 style="font-size: 20px; font-family: verdana;" id="jam"></h4>
 </center>
